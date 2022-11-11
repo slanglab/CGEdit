@@ -1,6 +1,6 @@
 # CGEdit
 
-Models and training data to accompany the paper: Masis, Neal, Green, and O'Connor. ["Corpus-Guided Contrast Sets for Morphosyntactic Feature Detection in Low-Resource English Varieties."](https://arxiv.org/abs/2209.07611) Field Matters Workshop at COLING, 2022.
+Models and training data to accompany the paper: Masis, Neal, Green, and O'Connor. ["Corpus-Guided Contrast Sets for Morphosyntactic Feature Detection in Low-Resource English Varieties."](https://aclanthology.org/2022.fieldmatters-1.2/) Field Matters Workshop at COLING, 2022.
   
   
   
