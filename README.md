@@ -8,9 +8,9 @@ Contact: Tessa Masis (tmasis@cs.umass.edu), Brendan O'Connor (brenocon@cs.umass.
 - `data/`
   - `documentation.md`: dataset documentation 
   - `CGEdit/`
-    - `AAE.csv`, `IndE.csv`: training sets for AAE and IndE generated via CGEdit method
+    - `AAE.tsv`, `IndE.tsv`: training sets for AAE and IndE generated via CGEdit method
   - `CGEdit-ManualGen/`
-    - `AAE.csv`, `IndE.csv`: training sets for AAE and IndE generated via both ManualGen and CGEdit
+    - `AAE.tsv`, `IndE.tsv`: training sets for AAE and IndE generated via both ManualGen and CGEdit
   
 - `code/`
   - `train.py`: code to fine-tune BERT-variant model
