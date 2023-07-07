@@ -1,0 +1,475 @@
+example	zero-poss	zero-copula	double-tense	be-construction	resultant-done	finna	come	double-modal	multiple-neg	neg-inversion	n-inv-neg-concord	aint	zero-3sg-pres-s	is-was-gen	zero-pl-s	double-object	wh-qu
+go over with my grandma house	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+go over my grandma house	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+go over my grandmama house	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+go over my grandma's house	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+go over my grandma's	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+go over my ma's house	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zaria conscious not	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zaria conscious is not like	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zaria conscious is not 	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zaria this is not	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zaria is not	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+And Zaria is not	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+this y'all gift	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+okay this y'all birthday gift	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+this y'all birthday gift	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+this y'all do birthday gift	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+much they own thing going	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+much section got they own thing going	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+much got they own thing going	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+much, they got thing going	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+much they got a thing going	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+much got thing they going	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+to go they name on the 	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+go to the they name on the 	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+go to put they name on the	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+go to put name on the	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+go to put they was on the 	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+go to put they on the 	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+you know, it be in the street.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+you know, it be in the street	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+you know, it be blocks in the street	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+you know, it would be blocks in the street	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+you know, it could be blocks in the street	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+you know, it blocks in the street	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She the around here	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She around the corner here	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She the folk around here	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She was the around here	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She had the around here	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She let the around here	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Everybody else younger than me.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Everybody years younger than me.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Everybody else stupid than me.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Everybody than younger me.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Everybody else than me.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Everybody else was than me.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+He on the five dollar	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+He on the last five	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+He on the five	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+on the other five dollar	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+on the five dollar	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+the on five dollar	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Then they gonna say, why he just talking to black people?	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Then they gonna say, why he talking to black people?	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Then they say, why he just talking to black people?	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Then they say, why he just wanted to black people?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+they were gonna say, he was just talking to black people?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Then not gonna say why, just talking to black people?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+They talking about	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+They talking	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+They were talking about	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+talking about, 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+They keep talking about	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She likeded me the best all	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She likeded me the best	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She likeded me all the time	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She liked me about the best all	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She liked me the best all	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The bullets bounceded off.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The bullets bounceded.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The bullets bounceded me.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The bullets bounced it off.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The bullets bounced off.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The bullets Rounded off.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+He throwed a rock in	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+He throwed - in a	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+throwed a rock in	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+He throw a rock in	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+He throw aksed in	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+He aksed rock in	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+the man and crawleded on the ground	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+, and the man crawleded on the ground	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+the and crawleded on the ground	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+the man and crawled was on the ground	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+the man and dawned on the ground	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+the man and crawled on the ground	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+anybody getting drownded in Princeville.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+anybody getting drownded in of Princeville.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+anybody getting drownded Princeville.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+anybody getting drown in Princeville.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+anybody getting drown up in Princeville.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+anybody getting drown here in Princeville.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we lookeded like a carpet.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we lookeded like, a.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+lookeded like a carpet.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we looked like a carpet.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we looked was like a carpet.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we it looked like a carpet.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I just be liking the beat	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I just be to beat the	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I just be liking the beat to	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I would just be liking the beat	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I just liking the beat	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+just be liking the beat	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+like and then I be seeing these	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+and stuff like I be seeing these	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+then like I be seeing these	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+like and then I will be seeing these	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+like and then I seeing these	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+like and then I wanna be these	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+These mamas be letting they little boys dance	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+These mamas be letting little boys dance	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+These mama be letting they little boys dance	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+These ma could be letting they little boys dance	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+These mamas they would be little boys dance	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I be trying to either get too deep into politics. I be listening to it	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I be trying to either get into too politics. I be listening to it	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I be trying to either get too deep into. I be listening to it	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I wanna be to either get too deep into politics. I could be to it	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I could be to either get too deep into politics I mean. listening to it	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+be trying to either get too deep into politics. I would be to it	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+that niggas be bringing out	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+that these niggas be bringing out	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+that niggas be bringing out rap	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+that niggas out to be	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+that niggas to be out	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+that niggas is bringing out	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+you done lost your mind.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+you done lost your life.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+you done lost In your mind.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+you lost your mind.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+have you done your mind.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+you done your mind.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+because I done did a few folks from 	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+interesting because I done did a few folks from 	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+because I done did it a few folks from 	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+because I done a few folks from	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+because I done quite a few folks from	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+because I done a few years from	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I guess she done slept with everybody the first semester so she gay now.	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I guess she done slept with everybody the first semester And so she now.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I guess she done slept with everybody first semester so she gay now.	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I guess she slept with everybody the first semester so she gay now.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I guess she done with everybody the first semester so she gay now.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I guess she was done with everybody the first semester so she gay now.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we played, I done forgot the name of it	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+we I mean, done forgot the name of it	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+we, and I done forgot the name of it	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+we played I, forgot the name of it	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we played, I forgot the name of it	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we played, I done of the name of it	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+well, you done automatically won your	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+well, you done went automatically won your	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+, you done automatically won your	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+well done, you know automatically won your	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+well, you automatically won your	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+well, you know automatically won your	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+so now I'm finna get into some more	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+so now, I'm finna get into some more	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+so now I'm finna get into some football more	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+so now I'm tryna get into some more	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The two-thousands finna be considered old.	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+The two finna be considered old.	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+The two-thousands finna be considered.	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+The two-thousands tryna be considered old.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+She's finna have a baby.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+She's finna a baby.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+She's like finna have a baby.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+She's tryna have a baby.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I was finna say she	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I was finna get she	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I was finna say the she	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I was tryna say she	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+she didn't really never worked in the	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+she didn't really never was in the	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+she didn't really never been in the	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+she didn't really worked in the	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+she didn't was never really in the	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+she didn't know really never worked in the	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+oh my god I'm finna die like, I'm	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+oh my god I'm finna, like, I'm	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+oh my god I'm finna to die like, I'm	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+oh my god I'm tryna die like, I'm 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+So when she come grabbing me on	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+So, when she come grabbing me on	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+So she come grabbing me on	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+So when she me to come on	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+So when she grabbing me on	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+So when she would come me on	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+But he come tryna tell us about	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+But he come tryna tell us about?	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+he come tryna tell us about	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+But he, tryna come tell us about	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+But he come try to tell us about	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+But he you tryna come tell us about	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+over there, he come running there	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+over there, come running there	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+go over there, he come running there	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+over there, and he come there	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+over there, and he running there	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+over there, and he come over there	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+the stop thing, come walking up to your	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+the thing, and come walking up to your	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+the stop, come walking up to your	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+the stop thing, come up with to your	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+the stop thing, walking up to your	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+the stop, come on walking up to your	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+before you come accusing blindly.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+, before you come accusing blindly.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+you before you come accusing blindly.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+before you come out accusing blindly.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+before you accusing blindly.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+before when you come blindly.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+which you might can use as a sort	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+which you might can, as a sort	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+which you might can use yourself as a sort	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+which you can use as a sort	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+which you might I can use a sort	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+which, you can use as a sort	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+or something, I might can't hear from them 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+, or I might can't hear from them 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+or something, I might can don't hear from them 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+or something I mean, can't hear from them	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+or something, I might You can't hear from them	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+or something I, can't hear from them	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+that same talent might can translate in a 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+that same you might can translate in a 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+that same might can use translate in a 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+that same talent, can translate in a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+that same talent can translate in a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cause he might could really get our	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+cause he might could get our	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+cause he might could really get into	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+cause he really could get our	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cause he could really get our	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cause he I really could get our	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I mean I may can sort of demonstrate	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I mean I may can of demonstrate	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I mean I may can, sort of	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I mean I may sort of demonstrate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I mean, I can sort of demonstrate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I mean I may of sort demonstrate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't never really have a response.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I don't never really have a response time.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I don't never really have a minute.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I don't know really have a response.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't really know have a response.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't really have a response.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+crazy we ain't even get to eat nothing or none of that shit	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+crazy we you ain't even get to eat nothing or none of that shit	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+crazy we didn't even get to eat nothing or none of that shit	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+crazy we ain't even get to eat or something of that shit	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+You know, never did have no children	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+know, never did have no children	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+You know, never did I have no children	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+You know, did have no children	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+You know did, have no children	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+You know, never did you have children	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I ain't doing nothing wrong	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+I ain't nothing wrong	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+I ain't doing nothing wrong.	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+I ain't doing wrong	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+so the kids ain't no different	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+, so the ain't no different	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+so the kids I ain't no different	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+so the kids ain't know different	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+so the kids ain't different	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Don't nobody know what I had	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+Don't nobody I know had	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+Don't nobody know what I	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+Don't know what I had	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Don't you know what I had	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Don't let nobody know what I had	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+awhile, and don't no man want no woman that's just	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+Um, and don't no man want no woman that's just	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+awhile, and I don't no man want no woman that's just	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+awhile, and don't know man want woman that's just	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cause can't nobody make nobody do what they 	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+Cause can't nobody make what do they 	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+Cause can't nobody make nobody they do	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+Cause can don't make nobody make do what they	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Cause can't make it nobody do what they	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cause you can't nobody make nobody do what they	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+It ain't nothing to tell about.	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0
+It ain't got nothing to tell about.	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+It ain't know nothing to tell about.	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+It ain't to tell you about.	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+It ain't know to tell about.	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+It ain't to tell about.	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+I mean, shouldn't no town have problems	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+I mean, shouldn't no town have problems with	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+I mean shouldn't no town have problems	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+I mean, shouldn't have no have problems	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I mean, shouldn't know town have problems	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I mean, shouldn't I have no problems	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+who did it, nobody don't say nothing.	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+out who did it, nobody don't say nothing.	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+who was it, nobody don't say nothing.	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+who did it, you don't say nothing.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+who did, and it don't say nothing.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+who did it, don't say nothing.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+No one can't go against the wave.	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+No one can't go against the wall.	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+No one can't go against the street.	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+No one you can't go against the wave.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+No you can't go against the wave.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+No one I can't go against the wave.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+that cause no one wouldn't tell	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+that - no one wouldn't tell	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+that, cause no one wouldn't tell	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+that cause one wouldn't tell	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cause that one wouldn't tell	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+want much, nobody didn't want much but my	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+want much, nobody didn't want to much but my	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+want much, nobody didn't want much my	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+want much, we didn't want much but my	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+want much, nobody I didn't want much but my	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+want much, didn't want much but my	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+coming to work nobody couldn't tell that when	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+go to work nobody couldn't tell that when	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+coming to work if nobody couldn't tell that when	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+coming to work nobody I couldn't tell that when	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+coming go to work, couldn't tell that when	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+coming to work just couldn't tell that when	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+like nah, man way he walk,	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+like, nah, man way he walk,	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+like nah, I man way he walk,	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+like nah, man way he,	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+like nah, man the way he,	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+like nah, man way, he	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+My boy think every black girl like Gabrielle Union.	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+My boy think every black girl was like Gabrielle Union.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+My boy think every like black Gabrielle Union.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+My boy every black girl like Gabrielle Union.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+My boy I think every girl like Gabrielle Union.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+My I think every girl like Gabrielle Union.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+But the plot always involve a female, bruh.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+But the plot always involve a, bruh.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+But the plot always involve female, bruh.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+But the always involve a female, bruh.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+But the plot always had a female, bruh.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+But the plot always a female, bruh.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't know if it count.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I don't know it count.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+don't know if it count.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I don't know if do it.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't know if of it.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't know if it.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+it's like she pay her bill, she got her job, she bust her ass, she 	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+it's like she pay me her bill, she got her job, she bust her ass, she 	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+it's like she pay her bill, and she got her job, she bust her ass, she 	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+it's like she her bill, she got her job, she was bust her ass, she	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I surely believe they is.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+, I believe they is.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+I believe they is.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+I surely is that they.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I surely believe It is.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I surely they believe in.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+They is die hard Laker fans.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+They is die hard Laker.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+They is hard Laker fans.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+They family is die hard Laker fans.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+They die hard Laker fans.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+got 'em when they was getting new ones	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+got 'em they was getting new ones	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+got 'em when they was like new ones	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+got 'em when I was getting new ones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+got 'em when they were getting new ones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+got 'em when they he was getting new ones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+back cause telephones wasn't in use.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+back cause telephones wasn't in DC.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+back telephones wasn't in use.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+back cause telephones It wasn't in use.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+back cause telephones didn't in use.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+back cause telephone I wasn't in use.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+how old you is?	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+how you is?	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+how old is you crying?	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+how old you do?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+how old you know?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+how old were you?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+they changed about two or three time we were there.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+they changed about two or three time we there were.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+they changed about two or three time, we were.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+they changed about two or three times time we were there.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+they changed about two or three when we were there.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+they changed about two or the time we were there.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+About four or five month.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+About or five month.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+About five or six month.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+About four or five years.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+About four or month.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+About four or five.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+We only had two elementary school.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+We only had two school.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+We only had two high school.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+We only had in elementary school.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+We only had elementary school.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+We only had two in elementary school.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I think it's about five church in Princeville.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I think it That's five church in Princeville.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I think it's about five church in to Princeville.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I think it's about in church, Princeville.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I think it's about five or in Princeville.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I think it's talk about church in Princeville.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+everything was ten, fifteen cent, you know	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+everything was ten, fifteen cent, you	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I was ten, fifteen cent, you know	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+everything was ten, fifteen, twenty you know	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+everything was ten, fifteen, you know	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+everything was ten, fifteen, you know, know	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Took about six month.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Took me six month.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Took six month.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Took about six month span.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Took about month.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Took about six months.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I got me my own car and	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I got me my own and	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I got me my own car, and	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I got my own car and	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I got to my own car and	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+me but I got my own car and	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+had to have me a dog.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+had to have me a little.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+had to have me a mixed dog.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+you have to me a dog.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+had to have give me a.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+had to I have a dog.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+soon as you get you some Scrabble tiles	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+soon as you get you some Scrabble, tiles	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+as you get you some Scrabble tiles	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+soon as you know, get some Scrabble tiles	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+soon as you did you get some Scrabble tiles	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+as soon as get you some Scrabble tiles	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I decided I wanted me a job that	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I decided I wanted me that was a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I decided I wanted me a little that	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I decided I wanted to a job that	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I decided I wanted tell me a that	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I decided, I wanted a job that	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+so we had us a couple of beers	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+so we had us for a couple of beers	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+so we had us to a couple of beers	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+so we had a couple of beers	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+so we of us had a couple of beers	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+so, we had a couple of beers	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+What you was gonna- If it was a girl, what you were gonna name	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+What you was gonna- If it was a good girl, what you were gonna name	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+you was gonna- If it was a girl, what you were gonna name	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+you was gonna- If it was a girl, what were gonna name	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+What they was doing? 	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+What they was doing	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+What they doing?	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+What was that doing?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+What was doing?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Why those people don't want to take that car?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Why those people don't want to do that car?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Why those people don't want to say that car?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+of those people don't want to take that car?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+those people that don't want to take that car?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Why of people don't want to take that car?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Atlanta music, who you feeling right now?	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+about Atlanta music, who you feeling right now?	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+the music, who you feeling right now?	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Atlanta music, you know who right now?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Atlanta, who was you feeling right now?	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Atlanta music, you decide who right now?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+What we gonna do? 	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+What we to do?	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+What you gonna do? 	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+What are we gonna do?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+What gonna do?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we gonna do?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
