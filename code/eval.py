@@ -63,15 +63,14 @@ def eval_dataloader(eval_dataset):
     return data_loader
 
 class CustomDataset(Dataset):
-    def __init__(self, text, ids):
+    def __init__(self, text):
         self.text = text
-        self.ids = ids
 
     def __len__(self):
         return len(self.text)
 
     def __getitem__(self, idx):
-        return {"input_ids": self.text[idx], "id": self.ids[idx] }
+        return {"input_ids": self.text[idx] }
 
 
 def testM(tokenizer, model, test_f):
@@ -88,7 +87,7 @@ def testM(tokenizer, model, test_f):
 
     # For each head/feature, predict on all sentences if feature is present
     dataloader = eval_dataloader(features_dict)
-    with open("./data/results/"+out_dir,'w') as f:
+    with open("./data/results/"+out_dir,'a') as f:
         for steps, inputs in enumerate(dataloader):
             for ex in inputs["input_ids"]:
                 with torch.no_grad():
