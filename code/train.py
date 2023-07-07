@@ -78,7 +78,7 @@ def trainM(tokenizer, train_f):
 
     with open(train_f) as r:
         for line in r:
-            lineSplit = line.strip().split(",")
+            lineSplit = line.strip().split("\t")
             tokenized = tokenizer.encode(lineSplit[0], max_length=64, pad_to_max_length=True, truncation=True)
             features_dict["input_ids"].append(torch.LongTensor(tokenized))
             features_dict["labels"].append(torch.tensor([float(x) for x in lineSplit[1:]], dtype=torch.long))
@@ -109,7 +109,7 @@ def trainM(tokenizer, train_f):
 
 if __name__ == "__main__":
     
-    train_file = "./data/"+gen_method+"/"+lang+".csv"
+    train_file = "./data/"+gen_method+"/"+lang+".tsv"
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     if lang == 'AAE':
