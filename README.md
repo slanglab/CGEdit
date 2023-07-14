@@ -1,6 +1,6 @@
 # CGEdit/
 
-Models, code, and training data to accompany the paper: Masis, Neal, Green, and O'Connor. ["Corpus-Guided Contrast Sets for Morphosyntactic Feature Detection in Low-Resource English Varieties."](https://aclanthology.org/2022.fieldmatters-1.2/) Field Matters Workshop at COLING, 2022.
+Code, training data, and models to accompany the paper: Masis, Neal, Green, and O'Connor. ["Corpus-Guided Contrast Sets for Morphosyntactic Feature Detection in Low-Resource English Varieties."](https://aclanthology.org/2022.fieldmatters-1.2/) Field Matters Workshop at COLING, 2022.
 
 Contact: Tessa Masis (tmasis@cs.umass.edu), Brendan O'Connor (brenocon@cs.umass.edu)
   
