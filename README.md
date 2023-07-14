@@ -16,8 +16,8 @@ Contact: Tessa Masis (tmasis@cs.umass.edu), Brendan O'Connor (brenocon@cs.umass.
   - `train.py`: code to fine-tune BERT-variant model
   - `eval.py`: code to evaluate fine-tuned model
   - `preprocessCORAAL.py`: code used to preprocess CORAAL transcript files for extrinsic evaluation in the paper (see Section 6); note that only interviewee speech files were used for our evaluation, not interviewer speech files
+  - Note that the above scripts may require modifications in order to run on your computer
   - `tutorial.ipynb`: copy of the tutorial walking through how to use our fine-tuned models (see below, section "Using our models")
-  - Note that these scripts may require modifications in order to run on your computer
   
   
 ## Training models
